@@ -1,0 +1,177 @@
+{
+  "project_info": {
+    "project_number": "976029574964",
+    "project_id": "puntos-smart-nuevo",
+    "storage_bucket": "puntos-smart-nuevo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:976029574964:android:726e74657eea2744582761",
+        "android_client_info": {
+          "package_name": "com.puntossmart.puntossmart_usuarios_estable"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "976029574964-57au2jvfog6f7imvlpndoitb0u3u6nkj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.puntossmart.puntossmart_usuarios_estable",
+            "certificate_hash": "a9bf1b833c69f38be91c06926b2b3297d4abdb2c"
+          }
+        },
+        {
+          "client_id": "976029574964-b9rrt0j72kd7mudeg03shohv1031r1gq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.puntossmart.puntossmart_usuarios_estable",
+            "certificate_hash": "587b6ccba6c82de5623fc14ea114f547de1f6d6e"
+          }
+        },
+        {
+          "client_id": "976029574964-tirapb2bspb1ol0lhsm1m8sm7q7dkglo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.puntossmart.puntossmart_usuarios_estable",
+            "certificate_hash": "eb8185d1a5fefaad15c012577acf3daecad91cc2"
+          }
+        },
+        {
+          "client_id": "976029574964-nfohu78085vkmvt3sl5qohrgnn3cit9i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAd4pHA25AYeXaov9FWEwzMOjcHr0hpcwg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "976029574964-4ruajpht3eb1nmvup3mm1a6ffi8mdih4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "976029574964-kah93r9fe6olib6th2srm426eenlvs4n.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.puntossmart.PuntosClient",
+                "app_store_id": "6670217490"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:976029574964:android:34cf4b1670423feb582761",
+        "android_client_info": {
+          "package_name": "com.sixamtech.puntos_client_user"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "976029574964-38avj9787s1v0mm9i4rhhqccs4dl752r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sixamtech.puntos_client_user",
+            "certificate_hash": "587b6ccba6c82de5623fc14ea114f547de1f6d6e"
+          }
+        },
+        {
+          "client_id": "976029574964-83gu4d0roanr9no62j41ta864lnvd0t5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sixamtech.puntos_client_user",
+            "certificate_hash": "4e491b5b555b797ee7fbd5fa1f8361a4c4102479"
+          }
+        },
+        {
+          "client_id": "976029574964-nes2crhh9qg2eoofo8ei9ba73rhso0t8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sixamtech.puntos_client_user",
+            "certificate_hash": "45dce3774f612086fefdbf761e199631915ad114"
+          }
+        },
+        {
+          "client_id": "976029574964-nfohu78085vkmvt3sl5qohrgnn3cit9i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAd4pHA25AYeXaov9FWEwzMOjcHr0hpcwg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "976029574964-4ruajpht3eb1nmvup3mm1a6ffi8mdih4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "976029574964-kah93r9fe6olib6th2srm426eenlvs4n.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.puntossmart.PuntosClient",
+                "app_store_id": "6670217490"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:976029574964:android:5ffc9b103ea95b4d582761",
+        "android_client_info": {
+          "package_name": "com.sixamtech.puntos_seller_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "976029574964-2rbiqdtodhhp8at35qd30kaptqmnhh0d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sixamtech.puntos_seller_app",
+            "certificate_hash": "81b3e4ee1bb28efb3c2118200fa5f4d3e6d8a380"
+          }
+        },
+        {
+          "client_id": "976029574964-nfohu78085vkmvt3sl5qohrgnn3cit9i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAd4pHA25AYeXaov9FWEwzMOjcHr0hpcwg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "976029574964-4ruajpht3eb1nmvup3mm1a6ffi8mdih4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "976029574964-kah93r9fe6olib6th2srm426eenlvs4n.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.puntossmart.PuntosClient",
+                "app_store_id": "6670217490"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

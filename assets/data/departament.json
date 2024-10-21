@@ -1,0 +1,33 @@
+[
+{"type":"header","version":"5.2.1","comment":"Export to JSON plugin for PHPMyAdmin"},
+{"type":"database","name":"puntossmartdata"},
+{"type":"table","name":"departament","database":"puntossmartdata","data":
+[
+{"id":"1","departament":"Amazonas"},
+{"id":"2","departament":"Áncash"},
+{"id":"3","departament":"Apurímac"},
+{"id":"4","departament":"Arequipa"},
+{"id":"5","departament":"Ayacucho"},
+{"id":"6","departament":"Cajamarca"},
+{"id":"7","departament":"Callao"},
+{"id":"8","departament":"Cusco"},
+{"id":"9","departament":"Huancavelica"},
+{"id":"10","departament":"Huánuco"},
+{"id":"11","departament":"Ica"},
+{"id":"12","departament":"Junín"},
+{"id":"13","departament":"La Libertad"},
+{"id":"14","departament":"Lambayeque"},
+{"id":"15","departament":"Lima"},
+{"id":"16","departament":"Loreto"},
+{"id":"17","departament":"Madre de Dios"},
+{"id":"18","departament":"Moquegua"},
+{"id":"19","departament":"Pasco"},
+{"id":"20","departament":"Piura"},
+{"id":"21","departament":"Puno"},
+{"id":"22","departament":"San Martín"},
+{"id":"23","departament":"Tacna"},
+{"id":"24","departament":"Tumbes"},
+{"id":"25","departament":"Ucayali"}
+]
+}
+]
